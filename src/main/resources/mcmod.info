@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "${modid}",
+        "name": "PlayerESP",
+        "description": "A forge mod to see players more easily.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/Calvineries/PlayerESP-forge-1.8.9",
+        "updateUrl": "",
+        "authorList": [
+            "Calvineries"
+        ],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
